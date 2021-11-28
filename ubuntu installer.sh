@@ -199,6 +199,26 @@ git clone https://github.com/cytopia/pwncat
 git clone https://github.com/m4ll0k/Atlas
 git clone https://github.com/OsandaMalith/IPObfuscator
 git clone https://github.com/chrispetrou/EnumSNMP
+git clone https://github.com/elithaxxor
+git clone https://github.com/nodoraiz/latchHooks
+git clone https://github.com/fO-000/bluescan
+git clone https://github.com/nodoraiz/droidbox
+git clone https://github.com/nodoraiz/substrate-base
+git clone https://github.com/nodoraiz/android-hooker
+git clone https://github.com/nodoraiz/apkstudio
+git clone https://github.com/nodoraiz/jadx
+git clone https://github.com/nodoraiz/jadx
+git clone https://github.com/nodoraiz/theZoo
+git clone https://github.com/nodoraiz/AxmlParserPY
+git clone https://github.com/nodoraiz/theZoo
+git clone https://github.com/nodoraiz/latchHooks
+git clone https://github.com/nodoraiz/AndroidAnalysis
+git clone https://github.com/nodoraiz/apk_binder_script
+git clone https://github.com/nodoraiz/SMShound
+git clone https://github.com/nodoraiz/obfuscar
+git clone https://github.com/nodoraiz/mkspoof
+git clone https://github.com/nodoraiz/DesktopBruteForcing
+git clone https://github.com/nodoraiz/PHP-Shell-Detector
 
 ##### Wget #####
 wget https://github.com/byt3bl33d3r/CrackMapExec/releases/download/v5.1.1dev/cmedb-ubuntu-latest.zip
